@@ -1,6 +1,5 @@
 ## Hi there  🤓
 
-Sou estudante da rede pública.
 
 Me profissionalizando na arte do Alura.
 
